@@ -1,0 +1,23 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: StrongClose Media Offload 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/strongclose-media-offload\n"
+"POT-Creation-Date: 2025-09-10 12:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Agent Mode\n"
+"X-Domain: strongclose-media-offload\n"
+
+#: strongclose-media-offload.php:40
+msgid "StrongClose Media Offload"
+msgstr ""
+
+#: strongclose-media-offload.php:71
+msgid "Your StrongClose Account ID"
+msgstr ""
+
+#: strongclose-media-offload.php:88
+msgid "StrongClose Access Key ID from API token"
+msgstr ""
+
